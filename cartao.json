@@ -1,0 +1,9 @@
+[
+  {
+    "nome": "Nubank",
+    "dtVencimentoCartao": "2021-05-05 00:00:00",
+    "dtVencimentoFatura": "2021-05-05 00:00:00",
+    "nroCartao": "121321231321231",
+    "bandeiraCartao": "MasterCard"
+  }
+]
