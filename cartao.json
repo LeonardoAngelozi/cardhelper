@@ -4,6 +4,22 @@
     "dtVencimentoCartao": "2021-05-05 00:00:00",
     "dtVencimentoFatura": "2021-05-05 00:00:00",
     "nroCartao": "121321231321231",
-    "bandeiraCartao": "MasterCard"
+    "bandeiraCartao": "MasterCard",
+    "tipoGasto": "Contas",
+    "descricao": "Luz",
+    "valor": "300,00"
+  },
+
+  {
+    "nome": "American Express",
+    "dtVencimentoCartao": "2021-05-05 00:00:00",
+    "dtVencimentoFatura": "2021-05-05 00:00:00",
+    "nroCartao": "121321231321231",
+    "bandeiraCartao": "VISA",
+    "tipoGasto": "Alimentação",
+    "descricao": "Mercado xx",
+    "valor": "25,00"
   }
+
+  
 ]
